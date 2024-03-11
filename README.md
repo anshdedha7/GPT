@@ -14,6 +14,6 @@ pip install -r requirements.txt
 
 The Tiny Shakespeare dataset (input.txt) comprises selections from Shakespeare's works, concatenated into a single text file. It serves as a compact yet representative sample of Shakespeare's style, making it an ideal training set for this project.
 
-## Overview
+## Model
 
 The core of the project is the Transformer model, a type of deep learning model that relies on self-attention mechanisms instead of traditional recurrent layers. This model can process input sequences in parallel, leading to more efficient training. In this implementation, we focus on character-level predictions to capture the linguistic style and nuances of Shakespeare's writing.
