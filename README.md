@@ -1,6 +1,6 @@
 # GPT - Transformer Language Model
 
-This is my implementation and training of a character-level Transformer language model, inspired by the architecture introduced in the paper "Attention is All You Need." I implemented this with the help of [Andrej Karpathy's GPT tutorial on YouTube](https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy). The goal of this project is to train a model capable of generating text in the style of Shakespeare's writings, utilizing the Tiny Shakespeare dataset.
+This is my implementation and training of a character-level Transformer language model, inspired by the architecture introduced in the paper "Attention is All You Need.". The goal of this project is to train a model capable of generating text in the style of Shakespeare's writings, utilizing the Tiny Shakespeare dataset.
 
 ## Installation
 
